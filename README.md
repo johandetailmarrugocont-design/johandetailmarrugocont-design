@@ -1,16 +1,21 @@
-## Hi there 👋
+## Johan Marrugo
 
-<!--
-**johandetailmarrugocont-design/johandetailmarrugocont-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero de Computación y desarrollador full-stack en Madrid. Trabajo con **Laravel** y **Vue 3** sobre infraestructura contenerizada, y vengo de una base sólida en redes, servidores y hardware.
 
-Here are some ideas to get you started:
+**Ahora mismo**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desarrollo una plataforma logística en producción para un cliente privado: Laravel, Vue 3, Flutter, Redis con Horizon y despliegue sobre AWS. El código es del cliente, así que no está aquí.
+- Estudio el ciclo superior de Desarrollo de Aplicaciones Multiplataforma en Madrid.
+
+**Antes**
+
+- Docente universitario de Programación II, Algoritmos y Estructuras de Datos y Redes de Computadoras. Más de 300 alumnos formados.
+- Infraestructura y sistemas: redes LAN/TCP-IP, servidores y hardware corporativo.
+
+**Stack**
+
+PHP · Laravel · Vue 3 · TypeScript · Flutter · MySQL · PostgreSQL · Redis · Docker · Git · nginx · AWS · Linux
+
+**Disponibilidad:** tardes, de 14:30 en adelante, 30 h por semana.
+
+**Contacto:** johan.marrugo.cont@gmail.com · https://linkedin.com/in/johan-andres-marrugo-torrealba
