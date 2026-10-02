@@ -36,4 +36,4 @@ Documento lo que construyo: el contrato de la API, el modelo de datos y las deci
 
 **Disponibilidad:** tardes, de 14:30 en adelante, 30 h por semana.
 
-**Contacto:** johan.marrugo.cont@gmail.com · https://linkedin.com/in/johan-andres-marrugo-torrealba
+**Contacto:** johan.marrugo.cont@gmail.com · [https://linkedin.com/in/johan-andres-marrugo-torrealba](https://www.linkedin.com/in/johan-andres-marrugo-torrealba-374819399/)
